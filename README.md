@@ -3,5 +3,7 @@
 
 template repo for class activity on git and github in pstat197a
 
+group: Navin Lo, Luke Dillon, Justin Lang
+
 updated october 2024
 
