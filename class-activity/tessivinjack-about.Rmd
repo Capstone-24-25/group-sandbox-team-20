@@ -1,0 +1,8 @@
+---
+title: "TESSIVINJACK-about"
+output: html_document
+date: "2024-10-03"
+---
+# About me
+
+A fun fact about me is I'm from Chicago and I love peanut butter
